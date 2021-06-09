@@ -1,0 +1,17 @@
+my sug
+1. Linux user 
+2. sacrificiable OS ( development + git + drive)
+
+works:
+
+1.topic + interest 
+2. finding dataset 
+3. investigating dataset 
+4. conclusion
+
+current tasks:
+
+1. git e unlimited push and clone
+2. webscrapper (saturday)
+3. creating database
+4. fking with data and weka
