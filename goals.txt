@@ -15,3 +15,10 @@ current tasks:
 2. webscrapper (saturday)
 3. creating database
 4. fking with data and weka
+
+git works:
+
+1. new branch 
+2. edit branch
+3. push edit branch
+
